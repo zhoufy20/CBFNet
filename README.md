@@ -1,2 +1,2 @@
 # CBFNet
-Predict the force of convalent bond through the accurate and efficient graph attention neural network.
+predict non-cyclic carbon-carbon covalent bond force using graph attention network.
